@@ -1,6 +1,6 @@
 # Kotlin-Video
 
-![kotlin-mvp-1](/Users/leijin/KotlinMvp/screenshot/kotlin-mvp-1.gif)
+![kotlin-mvp-1](screenshot/kotlin-mvp-1.gif)
 
 《Kotlin-Video》 是仿着“开眼Eyepetizer”之前版本并加上自己的想法，开发的一款的短视频小应用，每日为你推荐精选视频，让你大开眼界。本项目采用 Kotlin 语言编写，结合 MVP+RxJava2+Retrofit2+Glide等的架构设计，学习 Kotlin 利用空余时间开发的一款小项目，代码结构清晰有详细注释，
 
@@ -18,13 +18,13 @@ Kotlin 团队为 Android 开发提供了一套超越标准语言功能的工具�
 
 - 截图
 
-<img src="/Users/leijin/KotlinMvp/screenshot/01.png" alt="01" style="zoom:25%;" />
+<img src="screenshot/01.png" alt="01" style="zoom:25%;" />
 
 
 
 
 
-<img src="/Users/leijin/KotlinMvp/screenshot/02.png" alt="02" style="zoom:25%;" />
+<img src="screenshot/02.png" alt="02" style="zoom:25%;" />
 
 
 
